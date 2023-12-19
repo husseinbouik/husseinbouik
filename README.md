@@ -10,6 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=husseinbouik" alt="husseinbouik" />
   </a>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=husseinbouik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
   <a href="https://twitter.com/" target="_blank">
