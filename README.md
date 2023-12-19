@@ -11,7 +11,6 @@
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=husseinbouik&theme=onedark)
 
 <p align="left">
   <a href="https://twitter.com/" target="_blank">
