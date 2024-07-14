@@ -46,4 +46,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinbouik&" alt="husseinbouik" />
 </p>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6693ade7bec3a8b148e92940?variant=dark&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
