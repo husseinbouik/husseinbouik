@@ -46,4 +46,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinbouik&" alt="husseinbouik" />
 </p>
-<iframe src="https://github.com/sponsors/hussein-bouik/button" title="Sponsor hussein-bouik" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
