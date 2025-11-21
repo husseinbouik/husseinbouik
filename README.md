@@ -1,48 +1,71 @@
 <h1 align="center">Hi 👋, I'm Hussein Bouik</h1>
-<h3 align="center">Passionate Full Stack Web Developer from Tanger, Morocco</h3>
+<h3 align="center">Full-Stack .NET & React Developer — 3D Configurators (R3F / Three.js) • ERP & Financial Systems</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=husseinbouik&label=Profile%20views&color=0e75b6&style=flat" alt="husseinbouik" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=husseinbouik" alt="husseinbouik" />
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
-
-- 🌱 Currently learning **React advanced topics, exploring GraphQL, and enhancing data visualization with D3.js.**
-
-- 📫 How to reach me: **husseinbouik5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hussein-bouik" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-bouik" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/hussein.bk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussein.bk" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husseinbouik&show_icons=true&locale=en&layout=compact" alt="husseinbouik" />
+<p align="center">
+A pragmatic Full-Stack developer from Tangier, Morocco. I build scalable web applications and immersive 3D experiences, with experience in enterprise ERPs, automation with AI, and interactive product configurators.
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=husseinbouik&show_icons=true&locale=en" alt="husseinbouik" />
+<img src="https://komarev.com/ghpvc/?username=husseinbouik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+---
+
+## 🚀 About Me
+I design and implement robust frontends and reliable backends. My work ranges from modular React UI systems and high-performance 3D configurators (React Three Fiber / Three.js) to enterprise backend services in .NET that automate critical business workflows.
+
+- Frontend focus: component-driven React apps, 3D visualization, performance optimization.  
+- Backend focus: .NET microservices, databases, integrations and AI-assisted automation.  
+- Domain experience: ERP, invoicing, order workflows, bank statement automation using AI.
+
+## 🔭 Current
+**Frontend React Developer — Tecnibo**  
+Building modular UI and 3D configurators for a next-generation product customization platform.
+
+## 💼 Previous
+**Full-Stack Engineer — WINS (WinBooks Maroc)**  
+Worked on WinHub (ERP): backend .NET architecture, automated bank statement import with LlamaIndex Cloud, multi-invoicing, order & delivery workflow improvements.
+
+## 🌱 Learning & Interests
+GraphQL • D3.js / data visualization • advanced React patterns • real-time apps • AI for automation
+
+## 🏆 Highlights
+- 1st place — SoliHackathon (Team: Coding Commanders) — solution to reduce water waste  
+- Built AI-powered bank-statement importer to automate debit/credit classification
+
+## 📫 Contact
+- Email: husseinbouik5@gmail.com  
+- LinkedIn: https://linkedin.com/in/hussein-bouik  
+- Instagram: https://instagram.com/hussein.bk
+
+---
+
+## 🔧 Tech & Tools
+
+**Frontend**
+- JavaScript / TypeScript • React • React Three Fiber • Three.js • Next.js • Tailwind • Bootstrap • HTML • CSS • React Native • Flutter
+
+**Backend**
+- .NET / C# • Node.js • Laravel • PHP • Python • Java
+
+**Databases**
+- SQL Server • MySQL • MongoDB
+
+**Tools**
+- Git • AWS • Figma • Postman • Visual Studio
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinbouik&" alt="husseinbouik" />
+  <img src="https://github-readme-stats.vercel.app/api?username=husseinbouik&show_icons=true&locale=en" alt="github stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husseinbouik&show_icons=true&locale=en&layout=compact" alt="top langs" />
+</p>
+
+---
+
+## 🤝 Want to collaborate?
+I’m open to frontend, full-stack, and product-focused roles or freelance projects. Reach out by email or LinkedIn — let’s build something useful.
+
