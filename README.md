@@ -34,7 +34,6 @@ GraphQL • D3.js / data visualization • advanced React patterns • real-time
 - Built AI-powered bank-statement importer to automate debit/credit classification
 
 ## 📫 Contact
-- Email: husseinbouik5@gmail.com  
 - LinkedIn: https://linkedin.com/in/hussein-bouik  
 - Instagram: https://instagram.com/hussein.bk
 
