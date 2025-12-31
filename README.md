@@ -35,8 +35,6 @@ GraphQL • D3.js / data visualization • advanced React patterns • real-time
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/hussein-bouik  
-- Instagram: https://instagram.com/hussein.bk
-
 ---
 
 ## 🔧 Tech & Tools
