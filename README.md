@@ -1,45 +1,32 @@
 # Hi 👋, I'm Hussein Bouik
 
-### Software Engineer — Enterprise .NET & Immersive 3D Web | AI-Powered Systems
+### Software Engineer — Enterprise .NET & Immersive 3D Web
 
-I build enterprise-grade backends and immersive 3D web experiences for international clients. Currently at **NTT DATA**, working on a platform for the **United Nations Volunteers** — .NET microservices, clean architecture, Azure.
-
-My lane: scalable .NET backends, real-time 3D on the web (React Three Fiber / Three.js), and AI-assisted automation already running in production.
-
----
-
-## 🔭 Currently
-
-**Software Engineer — NTT DATA, Inc.**
-
-Building the Unified Volunteers Platform for the United Nations Volunteers: a React + TypeScript frontend over a .NET microservices backend, running on Azure Kubernetes with Cosmos DB, Azure Service Bus, Camunda BPM, CQRS/Sagas, and event-driven workflows — including role-based access, multilingual interfaces, and external-system integrations.
+Software engineer based in Tangier, Morocco. I build enterprise .NET backends and immersive 3D web experiences. Currently at **NTT DATA**, working on the Unified Volunteers Platform for the **United Nations Volunteers** — React/TypeScript over .NET microservices on Azure.
 
 ## 🧭 What I do
 
-- **Enterprise backends** — .NET microservices, clean architecture, CQRS, Sagas, event-driven systems
-- **Immersive 3D web** — React Three Fiber / Three.js product configurators, real-time interaction, performance optimization
-- **AI engineering** — LLM-assisted automation (LlamaIndex Cloud), intelligent document processing, AI-powered workflows
+- **Enterprise backends** — .NET microservices, clean architecture, CQRS/Sagas, event-driven systems, Azure
+- **Immersive 3D web** — React Three Fiber / Three.js product configurators, dimension & division logic, real-time interaction
+- **AI integration** — consuming and integrating AI services (LLM APIs, document processing) into production workflows
 
 ## 💼 Previously
 
-- **Frontend React Developer — Tecnibo** — Built advanced 3D configurator systems for real-time product customization: modular component architecture, spatial planning, dynamic element generation, and scene-management strategies that improved responsiveness and rendering performance.
-- **Full-Stack Engineer — WINS (WinBooks Maroc)** — Developed and optimized commercial, accounting, and invoicing modules (.NET, C#, SQL Server, Entity Framework). Built an AI-assisted bank-statement import system and a multi-invoicing module that automated financial-data processing.
+- **Frontend React Developer — Tecnibo** — advanced 3D configurator systems for made-to-measure wood products: modular architecture, spatial planning, dynamic element generation.
+- **Full-Stack Engineer — WINS (WinBooks Maroc)** — commercial, accounting and invoicing modules (.NET, C#, SQL Server, EF Core), incl. an automated bank-statement import.
 
 ## 🏆 Highlights
 
-- **Three.js Journey** certificate (Feb 2026)
-- **1st place** — SoliHackathon (solution to reduce water waste)
-- **Ramadan AI Hackathon** — built AI solutions for real-world challenges
+- **1st place** — SoliHackathon (QATRA, water-saving app)
+- **Three.js Journey** certificate
 
 ## 🔧 Core stack
 
-**.NET / C#** • **React / TypeScript** • **React Three Fiber / Three.js** • **Azure (Kubernetes, Service Bus, Cosmos DB)** • **SQL Server / PostgreSQL** • **Camunda BPM** • **LlamaIndex**
-
----
+**.NET / C#** • **React / TypeScript** • **React Three Fiber / Three.js** • **Azure (AKS, Service Bus, Cosmos DB)** • **SQL Server / PostgreSQL** • **Camunda BPM**
 
 ## 🤝 Work with me
 
-I'm open to **freelance projects and collaborations**: enterprise backends, 3D web experiences, and AI-powered systems.
+Open to freelance projects and collaborations in my stacks: .NET backends, 3D web configurators, AI-service integration.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hussein-bouik)
+- 💼 LinkedIn: https://www.linkedin.com/in/hussein-bouik
 - ✉️ husseinbouik5@gmail.com
